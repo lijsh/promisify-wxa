@@ -83,6 +83,7 @@ const otherApis = {
   connectSocket: true,
   sendSocketMessage: true,
   closeSocket: true,
+  request: true,
 
   // 媒体
   chooseImage: true,
